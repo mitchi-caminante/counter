@@ -10,7 +10,7 @@ body {
 .container { 
     background-color: rgba(248, 181, 110, .8);
     max-width: 400px;
-    margin: auto;
+    margin: 20vh auto;
     border: 3px solid #8d394e;
     border-radius: 10px;
 }
